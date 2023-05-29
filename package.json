@@ -1,0 +1,27 @@
+{
+  "name": "jalali-convertor",
+  "version": "1.0.8",
+  "description": "fastest javascript functions for converting Jalaali (Jalali, Persian, Khayyami, Khorshidi, Shamsi) and Gregorian calendar systems to each other.",
+  "main": "index.js",
+  "bin": "index.js",
+  "keywords": [
+    "jalali",
+    "Persian",
+    "Khayyami",
+    "Khorshidi",
+    "Shamsi",
+    "Gregorian",
+    "Date",
+    "Time"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "seezaara",
+  "license": "MIT",
+  "homepage": "https://github.com/seezaara/jalali-convertor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seezaara/jalali-convertor.git"
+  }
+}

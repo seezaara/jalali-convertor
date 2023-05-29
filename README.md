@@ -32,7 +32,11 @@ console.log(date.j2g(1402, 3, 4));  // [ 2023, 5, 25 ]
 console.log(date.g2j(2023, 5, 25));  // [ 1402, 3, 4 ] 
 
 ```
- 
+# licence
+ <p>
+    <img width="32px" src="https://raw.githubusercontent.com/seezaara/RocketV2ray/main/doc/logo.png"><a href="https://www.youtube.com/@seezaara">created by seezaara</a>
+</p> 
+
 
 
 
